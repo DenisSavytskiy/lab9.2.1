@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\User\source\repos\AP_Lab№9.2.1\UnitTest1\UnitTest1.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\User\source\repos\AP_Lab№9.2.1\UnitTest1\UnitTest1.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\User\source\repos\AP_Lab№9.2.1\UnitTest1\UnitTest1.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\User\source\repos\AP_Lab№9.2.1\AP_Lab№9.2.1\AP_Lab№9.2.1.cpp(29,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\User\source\repos\AP_Lab№9.2.1\AP_Lab№9.2.1\AP_Lab№9.2.1.cpp(29,17):
+      placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+      C:\Users\User\source\repos\AP_Lab№9.2.1\AP_Lab№9.2.1\AP_Lab№9.2.1.cpp(29,17):
+      the missing variadic argument 3 is required by format string '%d'
+  
+C:\Users\User\source\repos\AP_Lab№9.2.1\AP_Lab№9.2.1\AP_Lab№9.2.1.cpp(33,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\User\source\repos\AP_Lab№9.2.1\x64\Debug\UnitTest1.lib and object C:\Users\User\source\repos\AP_Lab№9.2.1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\AP_Lab№9.2.1\x64\Debug\UnitTest1.dll
